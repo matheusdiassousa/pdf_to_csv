@@ -1,6 +1,8 @@
-Copyright © Matheus Dias Sousa- 2020
+Copyright © Matheus Dias Sousa - 2020
 
 matheus_diassousa@hotmail.com
+
+BSD - License
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
